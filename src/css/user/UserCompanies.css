@@ -1,0 +1,11 @@
+body{
+    overflow:scroll;
+}
+body::-webkit-scrollbar {
+    background-color:transparent;
+    width:3px;
+  }
+body::-webkit-scrollbar-thumb {
+    background-color:darkgrey;
+    border-radius:10px;
+  }

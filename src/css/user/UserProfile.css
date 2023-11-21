@@ -1,0 +1,8 @@
+.softskill::-webkit-scrollbar {
+    background-color:transparent;
+    width:3px;
+  }
+.softskill::-webkit-scrollbar-thumb {
+    background-color:darkgrey;
+    border-radius:10px;
+  }
